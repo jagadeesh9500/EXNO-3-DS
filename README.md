@@ -57,6 +57,6 @@ We use this categorical data encoding technique when the features are nominal(do
 
 
 # RESULT:
-      The Feature Encoding and Transformation process is executed and the data is saved to the file successfully.
+The Feature Encoding and Transformation process is executed and the data is saved to the file successfully.
 
        
